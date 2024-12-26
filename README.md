@@ -5,17 +5,24 @@ This project involves a Power BI dashboard created to analyze and track sales pe
 
 # Dataset Details
 The dataset used for this project includes:
+
 Time Period: Sales data spanning multiple years for trend analysis.
+
 Fields Included:
 Sales Data: Sales, profit, quantity sold.
+
 Geographical Data: State and regional details for spatial analysis.
+
 Category Data: Product categories and sub-categories.
+
 Shipping Data: Ship modes and shipping days.
+
 Payment Methods: Modes of payment used by customers.
-Dashboard Highlights
+
+# Dashboard Highlights
 The Super Store Sales Dashboard offers:
 
-# Sales Analysis: Performance by region, segment, payment mode, and product category.
+ Sales Analysis: Performance by region, segment, payment mode, and product category.
 Profitability Insights: Year-over-year profit trends and state-level profit breakdowns.
 Shipping Metrics: Analysis of ship days and the performance of various shipping modes.
 Sales Forecasting: A 15-day sales forecast to predict future trends.
